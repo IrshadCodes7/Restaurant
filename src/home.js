@@ -1,6 +1,6 @@
 import tableImg from "./table.jpg";
 
-export function loadPage() {
+export function homePage() {
     const content = document.querySelector("#content");
     content.innerHTML = `
           <h1>My Restaurant</h1>
